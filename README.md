@@ -1,4 +1,5 @@
-# vault_ton_staking
+# vault_ton_contract
+- a staking/withdraw contract about Vault
 
 ## Project structure
 
